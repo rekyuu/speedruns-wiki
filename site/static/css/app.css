@@ -8,3 +8,5 @@ html, body {
 
 h1 { font-weight: bold; }
 h2 { font-weight: 400; }
+
+h2#alert { color: red; }
